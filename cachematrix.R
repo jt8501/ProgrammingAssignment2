@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions are designed to increase speed and efficiency
+## when calculating matrix inverses by caching the value
+## of a matrix inverse once it has been computed.
 
 ## This function creates a special matrix object
 ##      that can cache its inverse
